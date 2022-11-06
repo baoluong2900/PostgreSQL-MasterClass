@@ -55,7 +55,7 @@ CREATE TABLE categories (
 CREATE TABLE customer_customer_demo (
     customer_id bpchar NOT NULL,
     customer_type_id bpchar NOT NULL
-);
+); 
 
 
 --
